@@ -3,6 +3,11 @@
 :root {
     --primary: #ff3b5c;
 }
+
+* {
+    box-sizing: border-box;
+}
+
 html {
     font-size: 62.5%;
 }
